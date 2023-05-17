@@ -22,4 +22,4 @@ This Repo contains a notebook that is used to finetune the popular text summariz
 
 
 ## Loss vs epochs
-![loss]()
+![loss](https://github.com/cshekharp/dlfinalproject/blob/96c598dba93b1d63a466065c49b5b0341bb1e523/loss_50k.png)
