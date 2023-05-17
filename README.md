@@ -23,3 +23,7 @@ This Repo contains a notebook that is used to finetune the popular text summariz
 
 ## Loss vs epochs
 ![loss](https://github.com/cshekharp/dlfinalproject/blob/96c598dba93b1d63a466065c49b5b0341bb1e523/loss_50k.png)
+
+## Trained models
+
+The trained model were large enough to store on github, so we have stored them on google drive which can be accessible on https://drive.google.com/drive/folders/199hBzKckRqjj9gG3JJl2S-LBDYpfH-aY?usp=share_link
