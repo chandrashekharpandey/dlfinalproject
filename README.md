@@ -27,3 +27,7 @@ This Repo contains a notebook that is used to finetune the popular text summariz
 ## Trained models
 
 The trained model were large enough to store on github, so we have stored them on google drive which can be accessible on https://drive.google.com/drive/folders/199hBzKckRqjj9gG3JJl2S-LBDYpfH-aY?usp=share_link
+
+## Steps to run the notebook
+
+Open colab and do run all, the notebook will run automatically producing all the results, no need of any furtherchanges.
